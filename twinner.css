@@ -1,0 +1,53 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+background-image: linear-gradient(to right top, #b5f7ec, #51e2cf, #30b1a6, #057d81, #70057e);
+}
+
+.header
+{
+	color: white;font-family:'Times New Roman', Times, serif, Geneva, Verdana, sans-serif sans-serif;font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+}
+.header img
+{
+	width: 80px;margin-left: -15px;
+}
+
+.login_div
+{
+	background: rgba(255,255,255,0.8);float: none;border-radius: 15px;
+}
+
+.logo
+{
+	width: 115px;margin-top: 30px;border-radius: 40px; height: 70px;
+}
+
+#login_button
+{
+	width: 80%;border-radius: 15px;
+}
+
+.room_name
+{
+	cursor: pointer;
+	font-size: 20px;
+}
+
+
+#logout
+{
+	font-size: 20px; float: right;
+}
+
+#output
+{
+	padding: 10px; width:80%;background: rgba(183, 120, 212, 0.8);border-radius: 15px;
+}
+
+
